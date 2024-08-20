@@ -7,14 +7,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=LCUKP&&style=flat-square)  
   
 - ❓ Contact me via below.  
-  
-
-<br/>  
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-<br/> 
-
-
-
 
 </td></tr></table>  
 
